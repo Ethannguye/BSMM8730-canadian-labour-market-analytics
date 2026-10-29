@@ -32,3 +32,16 @@ These filters will be applied during data preparation:
 
 The full source archive contains observations outside
 the project's analysis scope.
+
+## JSON Metadata
+
+- File: statcan_14100355_metadata.json
+- Provider: Statistics Canada Web Data Service
+- Product ID: 14100355
+- API method: getCubeMetadata
+- Request method: POST
+- Endpoint: https://www150.statcan.gc.ca/t1/wds/rest/getCubeMetadata
+- Request body: [{"productId":14100355}]
+- Retrieval date: [YYYY-MM-DD]
+- Purpose: Support interpretation of the employment table,
+  its dimensions, classification labels, and source notes.
