@@ -1,0 +1,44 @@
+[
+  {
+    "article_id": "lfs_2020_02",
+    "title": "Labour Force Survey, February 2020",
+    "reference_month": "2020-02",
+    "publication_date": "2020-03-06",
+    "source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200306/dq200306a-eng.htm",
+    "final_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200306/dq200306a-eng.htm",
+    "retrieved_at_utc": "2026-10-29T17:53:56.296190+00:00",
+    "html_file": "lfs_2020_02.html",
+    "text_file": "lfs_2020_02.txt",
+    "text_characters": 5663,
+    "html_sha256": "152aa0960b390d50c37809d4182d338fa557dbec55c0d05e1fdf4465d89bd17a",
+    "review_status": "Pending manual review"
+  },
+  {
+    "article_id": "lfs_2020_04",
+    "title": "Labour Force Survey, April 2020",
+    "reference_month": "2020-04",
+    "publication_date": "2020-05-08",
+    "source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200508/dq200508a-eng.htm",
+    "final_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200508/dq200508a-eng.htm",
+    "retrieved_at_utc": "2026-10-29T17:53:58.587129+00:00",
+    "html_file": "lfs_2020_04.html",
+    "text_file": "lfs_2020_04.txt",
+    "text_characters": 32167,
+    "html_sha256": "4c4fc183a3c9c77083c59fadfcc2cf6cab88598da3b2e0cc3c0eb5e33d2375be",
+    "review_status": "Pending manual review"
+  },
+  {
+    "article_id": "lfs_2025_12",
+    "title": "Labour Force Survey, December 2025",
+    "reference_month": "2025-12",
+    "publication_date": "2026-01-09",
+    "source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260109/dq260109a-eng.htm",
+    "final_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260109/dq260109a-eng.htm",
+    "retrieved_at_utc": "2026-10-29T17:54:00.838735+00:00",
+    "html_file": "lfs_2025_12.html",
+    "text_file": "lfs_2025_12.txt",
+    "text_characters": 11696,
+    "html_sha256": "e2826f7dfff83fde2f1edf6fce40e3e5b795f56f53e17a11257feebc69d46a07",
+    "review_status": "Pending manual review"
+  }
+]

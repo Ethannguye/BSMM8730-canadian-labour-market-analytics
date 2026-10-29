@@ -1,0 +1,32 @@
+[
+  {
+    "article_id": "lfs_2020_02",
+    "source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200306/dq200306a-eng.htm",
+    "reference_month": "2020-02",
+    "status": "extracted",
+    "http_status": 200,
+    "retrieved_at_utc": "2026-10-29T17:53:56.296190+00:00",
+    "text_characters": 5663,
+    "logged_at_utc": "2026-10-29T17:53:56.313466+00:00"
+  },
+  {
+    "article_id": "lfs_2020_04",
+    "source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/200508/dq200508a-eng.htm",
+    "reference_month": "2020-04",
+    "status": "extracted",
+    "http_status": 200,
+    "retrieved_at_utc": "2026-10-29T17:53:58.587129+00:00",
+    "text_characters": 32167,
+    "logged_at_utc": "2026-10-29T17:53:58.614497+00:00"
+  },
+  {
+    "article_id": "lfs_2025_12",
+    "source_url": "https://www150.statcan.gc.ca/n1/daily-quotidien/260109/dq260109a-eng.htm",
+    "reference_month": "2025-12",
+    "status": "extracted",
+    "http_status": 200,
+    "retrieved_at_utc": "2026-10-29T17:54:00.838735+00:00",
+    "text_characters": 11696,
+    "logged_at_utc": "2026-10-29T17:54:00.857631+00:00"
+  }
+]

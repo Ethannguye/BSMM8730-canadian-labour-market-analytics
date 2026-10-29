@@ -1,0 +1,95 @@
+Highlights
+
+In December, employment was little changed (+8,200; 0.0%) and the employment rate held steady at 60.9%.
+
+The unemployment rate rose 0.3 percentage points to 6.8%, as more people searched for work.
+
+Employment rose among people aged 55 and older (+33,000; +0.8%), while it fell among youth aged 15 to 24 (-27,000; -1.0%).
+
+There were more people working in health care and social assistance (+21,000; +0.7%) as well as in 'other services' such as personal and repair services (+15,000; +2.0%). At the same time, fewer people were employed in professional, scientific and technical services (-18,000; -0.9%), accommodation and food services (-12,000; -1.0%), and utilities (-5,300; -3.0%).
+
+Employment was up in Quebec (+16,000; +0.3%) while it fell in Alberta (-14,000; -0.5%) and Saskatchewan (-4,000; -0.6%). There was little employment change in the other provinces.
+
+Average hourly wages among employees increased 3.4% (+$1.23 to $37.06) on a year-over-year basis in December, following growth of 3.6% in November (not seasonally adjusted).
+
+Employment holds steady
+
+Chart 1 Employment rate holds steady in December 2025
+
+Infographic 1 Employment rate by age group, December 2025
+
+Employment was little changed (+8,200; 0.0%) in December. This followed three consecutive monthly increases in September, October and November (totalling 181,000; +0.9%). The employment rate—the percentage of the population aged 15 years and older who are employed—held steady at 60.9% in December.
+
+Full-time employment rose by 50,000 (+0.3%) in December while part-time employment fell by 42,000 (-1.1%). The decline in part-time work in the month partially offsets a cumulative gain of 148,000 (+3.9%) in October and November. Over the 12 months to December 2025, part-time employment rose at a faster pace (+2.6%; +99,000) than full-time employment (+0.7%; +128,000).
+
+In December, there was little change in the number of private and public sector employees, as well as in the number of self-employed workers.
+
+Unemployment rate rises to 6.8%
+
+The unemployment rate rose 0.3 percentage points to 6.8% in December, as more people searched for work. The increase in the unemployment rate in December partially offsets a cumulative decline of 0.6 percentage points in the previous two months.
+
+Chart 2 Unemployment rate increases to 6.8% in December 2025
+
+There were 1.6 million people unemployed in December, an increase of 73,000 (+4.9%) in the month.
+
+The participation rate—the proportion of the population aged 15 and older who were employed or looking for work—rose by 0.3 percentage points to 65.4%. On a year-over-year basis, the labour force participation rate was unchanged in December.
+
+Youth unemployment rate increases
+
+The unemployment rate for youth aged 15 to 24 rose 0.5 percentage points to 13.3% in December, as fewer youth were employed (-27,000; -1.0%). Labour market conditions had previously improved for youth in October and November, with employment rising (+70,000; +2.6%) and the youth unemployment rate falling 1.9 percentage points over this period.
+
+2025 labour market in review: unemployment trended up as hiring slowed through the first eight months of the year but labour market conditions improved towards the end of the year
+
+In 2025, the labour market faced headwinds, in part due to the economic uncertainty introduced by the threat or imposition of tariffs on exports to the United States. The impacts of tariff-related trade uncertainty in 2025 have been detailed in recent Statistics Canada studies (see: United States tariffs and Canadian labour market trends and Recent employment trends in industries dependent on U.S. demand).
+
+From January to August, there was virtually no net employment growth in Canada. The employment rate trended down over this period, from 61.1% in January to a low of 60.5% in August. At the same time, the unemployment rate rose and reached a high of 7.1% in August—the highest level since May 2016 (excluding 2020 and 2021 during the COVID-19 pandemic).
+
+The increase in the unemployment rate over the first eight months of 2025 mostly reflected slower hirings. The job finding rate—that is, the proportion of job seekers who found work from one month to the next—was 18.1% on average between January and August 2025. This was lower compared with the corresponding periods in 2024 (21.0%) and between 2017 and 2019 (24.0%), prior to the pandemic (not seasonally adjusted).
+
+At the same time, layoff rates were similar to historical levels during this period. On average between January and August, the proportion of employed people who had become unemployed due to a layoff from one month to the next was 0.8%. This was identical to the average observed for the corresponding months in 2024 and between 2017 and 2019 (not seasonally adjusted).
+
+Job vacancies also fell through most of 2025. Based on the Job Vacancy and Wage Survey, job vacancies were down by 56,000 (-10.2%) on a year-over-year basis in the third quarter of 2025. Just over one-quarter (27.1%) of job vacancies were long-term (meaning that recruitment efforts had been ongoing for 90 days or more), down from 31.6% during the third quarter of 2024 (not seasonally adjusted). This indicates that in addition to having fewer job vacancies, employers had fewer difficulties filling available positions compared with previous quarters.
+
+More difficult labour market conditions in 2025 were most evident among youth. The youth unemployment rate reached a high of 14.7% in September, the highest rate since September 2010 (excluding 2020 and 2021). Students also faced a difficult summer job market in 2025. The unemployment rate for returning students was 17.9% on average between May and August—the highest rate since the summer of 2009 (when it was 18.0%), excluding 2020.
+
+Labour market conditions improved in the final months of the year. Employment rose by 181,000 (+0.9%) from August to November, before holding steady in December. The employment rate increased over this period and stood at 60.9% at the end of the year, little changed from December 2024. The unemployment rate also fell to 6.5% in November 2025, its lowest level for the year, before increasing to 6.8% in December, as more people searched for work.
+
+Infographic 2 Unemployment rate by age group, December 2025
+
+In December, among core-aged people (25 to 54 years old), increases in the number of people searching for work led to a rise in the unemployment rate for men (+0.4 percentage points to 6.0%) and women (+0.4 percentage points to 5.9%). On a year-over-year basis, the unemployment rate was up 0.4 percentage points for core-aged men, while it was little changed for core-aged women.
+
+For people aged 55 and older, the unemployment rate fell 0.2 percentage points to 5.1% in December as employment rose by 33,000 (+0.8%). On a year-over-year basis, the unemployment rate for people aged 55 and older was unchanged.
+
+Employment grows in health care and social assistance, and falls in professional, scientific and technical services
+
+Employment in health care and social assistance increased by 21,000 (+0.7%) in December, building on growth of 46,000 (+1.6%) recorded in November. This brought the net increase in health care and social assistance over the 12 months ending in December to 85,000 (+3.0%). On a year-over-year basis, employment in health care and social assistance grew faster among private sector employees (+6.9%) than among self-employed workers (+3.0%) (not seasonally adjusted). There was essentially no change in employment among public sector workers in health care and social assistance over the period.
+
+Chart 3 Employment change by industry, December 2025
+
+On the other hand, there were fewer people employed in professional, scientific and technical services in December (-18,000; -0.9%), the first decrease since August. Despite the monthly decline, employment in the industry was little changed in December compared with 12 months earlier.
+
+More people employed in Quebec, while Alberta posts a decline
+
+In December, employment increased by 16,000 (+0.3%) in Quebec, the first significant gain in the province since June 2025. The unemployment rate increased 0.3 percentage points to 5.4% in December as more people searched for work. Over the 12 months to December 2025, employment in the province was up by 45,000 (+1.0%), a slower rate of growth than in the 12 months ending in December 2024 (+1.6%; +72,000).
+
+Employment declined in Alberta in December (-14,000; -0.5%), partly offsetting an increase of 29,000 in November. On a year-over-year basis, employment in Alberta was up by 58,000 (+2.3%) in December. The unemployment rate in Alberta was 6.8%, on par with the rate recorded at the end of 2024 (6.7%).
+
+Map 1 Unemployment rate by province and territory, December 2025
+
+Employment also fell in Saskatchewan in December (-4,000; -0.6%), and the unemployment rate in the province increased 0.9 percentage points to 6.5%.
+
+In Ontario, employment was little changed for the second consecutive month in December. Over the 12 months ending in December 2025, employment rose at a slower pace (+0.9%; +72,000), compared with the 12 months ending in 2024 (+2.1%; +165,000). With more Ontarians searching for work, the unemployment rate in the province increased 0.6 percentage points to 7.9% in December 2025, 0.4 percentage points higher than at year-end in 2024 (7.5%).
+
+In the spotlight: The number of digital platform workers largely unchanged in 2025, and digital platform work continues to be more prevalent among recent immigrants
+
+Digital platform employment is a form of work that can be flexible and easy to access, though it typically offers short-term tasks and limited job security. As one of the core components of the gig economy, this type of work involves paid work organized through websites or apps that connect workers with clients and often oversee or organize the work process.
+
+In December 2025, 667,000 Canadians (2.3% of the population aged 15 to 69) had done paid work through a digital platform in the previous 12 months, little changed compared with December 2024 (671,000; 2.3%). These workers provided services; rented out accommodation, goods or equipment; or sold goods through websites or apps that coordinated their work activities or managed payments.
+
+The most common types of digital platform employment that Canadians did in the 12 months to December remained the delivery of food or other goods (272,000 people), personal transport services (184,000 people) and selling goods online with the specific purpose of earning income (92,000 people).
+
+Digital platform employment is often taken up as a secondary activity or done sporadically. Among people who had worked through an internet platform or app in the 12 months to December 2025, less than one-quarter (21.8%) were doing so as part of their main job or business in December.
+
+Further, less than half (45.6%) of digital platform workers reported that the main reason they had started working through an internet platform or app was to supplement income from a main job or to earn extra money. Other common main reasons included difficulty finding other work (15.4%) or flexible working hours or convenience (14.2%).
+
+Among recent immigrants (those who had landed in Canada in the previous five years), 8.4% had worked through an internet platform or app in the 12 months to December 2025. This was about 6 times higher than the corresponding proportion among people born in Canada (1.5%). Compared with a year earlier, the proportion was up 2.7 percentage points for recent immigrants but little changed (-0.1 percentage points) for people born in Canada.
