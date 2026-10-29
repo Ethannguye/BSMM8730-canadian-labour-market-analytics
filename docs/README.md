@@ -7,8 +7,8 @@ Market Analytics project, covering 2019–2025.
 
 | Document | File | Status |
 | --- | --- | --- |
-| Project Proposal | [docs/Update_Group 3_Proposal_Canadian_Labour_Market_Project.docx](Project_Proposal.pdf) | [Aprroved] |
-| User Requirements and Analysis Document | [docs/Group3 D41 Project Documentation.pdf](D4_1_User_Requirements.pdf) | [Submitted] |
+| Project Proposal | [View document](Update_Group%203_Proposal_Canadian_Labour_Market_Project.docx) | Approved |
+| User Requirements and Analysis Document | [View document](Group3%20D41%20Project%20Documentation.pdf) | Submitted |
 | Design Document | [View document](D4_2_Design_Document.pdf) | [Draft] |
 
 ## Status Definitions
