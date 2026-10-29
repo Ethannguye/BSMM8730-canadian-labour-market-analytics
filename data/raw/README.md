@@ -42,6 +42,6 @@ the project's analysis scope.
 - Request method: POST
 - Endpoint: https://www150.statcan.gc.ca/t1/wds/rest/getCubeMetadata
 - Request body: [{"productId":14100355}]
-- Retrieval date: [YYYY-MM-DD]
+- Retrieval date: 2026-10-29
 - Purpose: Support interpretation of the employment table,
   its dimensions, classification labels, and source notes.
