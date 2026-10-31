@@ -1,0 +1,14 @@
+Full 2019-2025 project dataset created successfully.
+Mode: full
+Validation status: PASS
+Employment fact rows: 17640
+Expected fact rows: 17640
+Reference months: 84
+Provinces: 10
+Source industry labels: 21
+Analytical industry labels: 18
+Blank employment values preserved: 9
+Article rows: 3
+Metadata scalar rows: 520
+Expected employment grain: one row per reference month, province and industry.
+This output covers the configured full employment scope and is ready for MySQL loading.
