@@ -1,0 +1,5 @@
+Prototype sample created successfully.
+Employment fact rows: 48
+Article rows: 3
+Expected employment grain: one row per reference month, province and industry.
+This sample is for schema, load and connection testing; it is not the final analysis dataset.

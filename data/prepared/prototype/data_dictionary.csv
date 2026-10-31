@@ -1,0 +1,16 @@
+Table,Column,MySQLType,Constraint,Meaning
+dim_date,DateKey,INT,PK,Month key in YYYYMM format
+dim_date,ReferenceMonth,DATE,UNIQUE,First day of the reference month
+dim_province,ProvinceKey,INT,PK,Surrogate province key
+dim_province,ProvinceCode,CHAR(2),UNIQUE,Canadian postal abbreviation
+dim_industry,IndustryKey,INT,PK,Surrogate industry key
+dim_industry,NAICSCode,VARCHAR(20),,Source classification code
+fact_employment,EmploymentID,BIGINT,PK,Prototype row identifier
+fact_employment,DateKey,INT,FK,References dim_date
+fact_employment,ProvinceKey,INT,FK,References dim_province
+fact_employment,IndustryKey,INT,FK,References dim_industry
+fact_employment,EmploymentValueThousands,"DECIMAL(12,1)",NULL allowed,"Estimated employed persons, thousands"
+fact_employment,StatusFlag,VARCHAR(10),,Statistics Canada status flag
+article,ArticleID,INT,PK,Article record identifier
+article,ReferenceMonth,CHAR(7),,Month discussed by the article
+article,BodyText,LONGTEXT,,Scraped narrative text
