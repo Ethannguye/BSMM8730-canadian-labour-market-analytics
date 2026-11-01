@@ -124,15 +124,11 @@ calculated by summing estimates across different months.
 
 ## Current Repository Status
 
-The initial repository structure and folder README files have
-been created.
+As of November 1, 2026, the team has completed data acquisition, web scraping, metadata extraction, full data preparation, MySQL schema development, local database loading, and SQL validation.
 
-Project documents, implementation files, and validation evidence
-will be added as the team develops and reviews each component.
+The validated employment fact table contains 17,640 records covering 84 months, 10 provinces, and 21 source industry categories. Nine unavailable employment measurements are preserved as NULL.
 
-The features listed above describe the planned solution.
-Completed functionality will be documented with supporting
-files and test results.
+Power BI modelling, DAX measures, dashboard development, application testing, and final documentation remain in progress.
 
 ## Getting Started
 
