@@ -24,6 +24,13 @@ The database uses prepared Statistics Canada Labour Force Survey employment data
 
 2. Database Architecture
 
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/6b4c5f4e-8be6-4ca9-ae0f-46f35591b76b" />
+
+
+
+
+
+
 The database follows a **star schema**, consisting of one central fact table connected to three dimension tables.
 
 | Table | Description | Records |
