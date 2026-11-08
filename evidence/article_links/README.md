@@ -1,7 +1,7 @@
-# T03–T06: Reviewed Article Tags and MySQL Links
+# T03: Article Extraction, Tag Review and Database Links
 
 ## Scope
-This evidence set demonstrates the integration of three manually reviewed Statistics Canada Labour Force Survey articles with the Canadian labour-market MySQL database. Article-level province and industry tags support retrieval of relevant commentary by reference month, province, or industry. A province tag and an industry tag on the same article **do not** by themselves establish that the article reports a specific province–industry claim.
+This T03 evidence set documents article review and database linking (the SQL implementation uses the T05/T06 database tables). It demonstrates the integration of three manually reviewed Statistics Canada Labour Force Survey articles with the Canadian labour-market MySQL database. Article-level province and industry tags support retrieval of relevant commentary by reference month, province, or industry. A province tag and an industry tag on the same article **do not** by themselves establish that the article reports a specific province–industry claim.
 
 ## Reproducible files
 - [SQL loader and validation queries](../../sql/03_article_links_FIXED.sql) — creates the `article`, `article_province`, and `article_industry` tables; loads reviewed articles; and produces nine result grids. Requires the existing `canadian_labour_market` database and its dimension/fact tables. Run the entire script in a new MySQL Workbench session.
