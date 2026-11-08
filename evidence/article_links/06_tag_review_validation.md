@@ -3,7 +3,7 @@
 **Review date:** 2026-11-07  
 **Input:** [Original article tags](../../data/prepared/article_tags_review.csv)  
 **Output:** [Reviewed tags with row-level status and notes](../../data/prepared/article_tags_review_checked.csv)  
-**Method:** AI-assisted source check against the three official Statistics Canada *Labour Force Survey* releases. Original SQL and source CSV were left unchanged.
+**Method:** Source passages checked against the three official Statistics Canada *Labour Force Survey* releases; the group confirmed the review results. Original SQL and source CSV were left unchanged.
 
 ## Review results
 
