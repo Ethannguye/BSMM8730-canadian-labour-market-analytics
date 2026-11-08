@@ -1,4 +1,4 @@
-# T03-B: Scrape selected Labour Force Survey releases
+# T03: Article collection, extraction and review
 
 This starter contains a Python script for the Canadian Labour Market Analytics project.
 It downloads three official Statistics Canada HTML releases and extracts their narrative
@@ -18,7 +18,7 @@ python3 scripts/scrape_lfs_articles.py
 ```
 
 Each run creates a new folder under `data/raw/articles/run_<UTC timestamp>/`.
-Keep that run folder intact. Existing runs and the T02/T03-A files are not overwritten.
+Keep that run folder intact. Existing runs and the T02 structured/metadata source files are not overwritten.
 
 ## Sample selection
 
@@ -51,9 +51,9 @@ paragraphs, including an industry/province passage when present. Record your rev
 and any omissions in a separate review note. The initial review status is deliberately
 `Pending manual review` even when automatic checks pass.
 
-The scraper selects main-content paragraphs/headings and excludes tables, figures,
+The T03 scraping component selects main-content paragraphs/headings and excludes tables, figures,
 navigation, and supplementary sections when identified. It does not perform tagging
-or load MySQL. Those are later preparation/loading tasks. A website layout change may
+or load MySQL itself. Those steps are part of the broader T03 article workflow, with database linking dependent on the T05/T06 schema. A website layout change may
 require updating the parser; title/date/minimum-text checks flag obvious failures.
 
 Archived articles reflect information available when published. Their numbers may
@@ -69,7 +69,7 @@ to `docs/` or include its relevant instructions in `scripts/README.md`.
 Upload the complete output run folder under `data/raw/articles/`, keeping filenames
 and relative paths intact. If using the GitHub website, create the destination folder
 with a README first, then use Add file > Upload files for its contents. Do not upload
-this starter as a second nested project repository. Keep the existing T02/T03-A files.
+this starter as a second nested project repository. Keep the existing T02 source files.
 
 Suggested commits:
 
