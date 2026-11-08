@@ -1,4 +1,4 @@
-# T03–T06 — Source-level review of article tags
+# T03 — Source-level review of article tags
 
 **Review date:** 2026-11-07  
 **Input:** [Original article tags](../../data/prepared/article_tags_review.csv)  
