@@ -1,4 +1,4 @@
- MySQL Database Design and Validation
+# MySQL Database Design and Validation
 
 Canadian Labour Market Analytics — Group 3
 
@@ -170,4 +170,4 @@ This reconciliation is a sample check and does not establish that all province-m
 The SQL scripts are included for reproducibility and further testing. Validation results reported above were obtained from the locally populated MySQL database; the committed scripts should also be tested independently against a fresh database.
  8. Integration With Power BI
 
-The validated analytical view supports theThis folder will contain database schema, loading, and validation SQL scripts.
+The analytical view supplies province, month, industry and employment fields for reporting. See the [database access and rebuild guide](../docs/D4_3_database_access.md) for the connection steps, the employment loader and the separate article-link script.

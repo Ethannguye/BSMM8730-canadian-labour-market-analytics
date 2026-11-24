@@ -4,6 +4,19 @@
 
 BSMM.8730 — Data Acquisition and Management  
 University of Windsor | Fall 2026 | Group 3
+
+## Start here — for graders
+
+| To do this | Open |
+|---|---|
+| Run the native Power BI report | [Download the current PBIX](powerbi/Group3_PowerBI_Updated.pbix), then open it in Power BI Desktop on Windows. A verified browser report link is still pending; [track hosted access here](https://github.com/Ethannguye/BSMM8730-canadian-labour-market-analytics/issues/3). |
+| Review project management and responsibilities | [D.4.3 task tracker on GitHub Issues](https://github.com/Ethannguye/BSMM8730-canadian-labour-market-analytics/issues/3) |
+| Connect to MySQL or recreate the database | [Connection, load order and validation instructions](docs/D4_3_database_access.md) |
+| Inspect source code and datasets | [Python](scripts/) · [SQL schema and checks](sql/) · [raw sources and provenance](data/raw/README.md) · [full prepared CSVs](data/prepared/full/) |
+| Check application evidence | [Power BI screenshots](powerbi/README.md) · [SQL and article validation](evidence/article_links/) |
+
+**Try it:** In the report, select a province and industry, inspect the monthly trend, then open **Employment Recovery** to compare with February 2020. Values are expressed in thousands of employed persons.
+
 ## Team Members
 
 - Nguyen Van Sa
@@ -122,26 +135,11 @@ calculated by summing estimates across different months.
 | [powerbi](powerbi/) | Power BI report files and DAX documentation |
 | [evidence](evidence/) | Screenshots, validation results, and demonstration evidence |
 
-## Current Repository Status
+## Current repository status — November 24, 2026
 
-As of November 1, 2026, the team has completed data acquisition, web scraping, metadata extraction, full data preparation, MySQL schema development, local database loading, and SQL validation.
+The repository contains the full prepared dataset, article records, MySQL schema, SQL validation evidence and native Power BI report. The documented local load contains 17,640 fact rows, including nine missing employment values. The SQL reporting view uses 17 non-overlapping industries and contains 14,280 rows.
 
-The validated employment fact table contains 17,640 records covering 84 months, 10 provinces, and 21 source industry categories. Nine unavailable employment measurements are preserved as NULL.
-
-Power BI modelling, DAX measures, dashboard development, application testing, and final documentation remain in progress.
-
-## Getting Started
-
-Start with the project documentation in the `docs` folder as it
-becomes available. Review the source information in `data` before
-working on acquisition or preparation.
-
-Detailed setup instructions, tested software versions, dependencies,
-and execution commands will be added alongside the implementation.
-
-The planned environment uses Python, Excel with Power Query,
-MySQL, and Power BI Desktop. Power BI report authoring will use
-a Windows environment.
+The [final task tracker](https://github.com/Ethannguye/BSMM8730-canadian-labour-market-analytics/issues/3) records outstanding access checks and final submission work. The proposal-era feature list above is a design target, not a completion checklist.
 
 ## Team Collaboration and Version Control
 

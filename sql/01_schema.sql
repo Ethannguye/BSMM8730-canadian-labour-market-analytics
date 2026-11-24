@@ -47,6 +47,9 @@ CREATE TABLE IF NOT EXISTS fact_employment (
   CONSTRAINT fk_fact_industry FOREIGN KEY (IndustryKey) REFERENCES dim_industry(IndustryKey)
 ) ENGINE=InnoDB;
 
+-- Keep 21 original labels in the fact table for audit and reconciliation.
+-- Eighteen pass the preparation flag; removing the combined trade series
+-- leaves 17 non-overlapping industries x 10 provinces x 84 months = 14,280.
 -- Analytical reporting view: exclude source aggregate categories and the
 -- combined Wholesale and retail trade category to avoid double-counting.
 CREATE OR REPLACE VIEW vw_employment_analytical AS

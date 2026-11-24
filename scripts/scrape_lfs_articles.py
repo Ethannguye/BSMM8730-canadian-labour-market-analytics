@@ -78,6 +78,9 @@ class ArticleParser(HTMLParser):
 
 
 def extract_article(html, expected_month, expected_date):
+    # The release date and the employment reference month are not interchangeable.
+    # Check both before retaining narrative text, and stop before the publisher's
+    # notes so headings, navigation and release metadata do not become evidence.
     parser = ArticleParser()
     parser.feed(html)
     expected_title = "Labour Force Survey, " + expected_month

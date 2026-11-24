@@ -84,6 +84,8 @@ def industry_code(label: str) -> str:
 
 
 def number_or_blank(value: str):
+    # Preserve the source observation and flag even when its estimate is blank.
+    # The database loader maps that blank to SQL NULL; zero is a measured value.
     value = (value or "").strip()
     if value == "":
         return ""
@@ -95,6 +97,9 @@ def full_months():
 
 
 def aggregate_industry(label: str) -> int:
+    # This first pass excludes the three broad source aggregates. A combined
+    # trade series remains among the 18 candidates; the SQL view removes it
+    # because wholesale and retail are also supplied separately.
     name = (label or "").casefold()
     aggregate_terms = ("all industries", "total employed", "goods-producing sector", "services-producing sector")
     return int(any(term in name for term in aggregate_terms))

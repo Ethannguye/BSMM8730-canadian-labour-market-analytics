@@ -1,5 +1,8 @@
 -- GROUP 3 | ARTICLE TAGS AND DATABASE LINKS | FIXED VERSION
 
+-- Attach reviewed articles through separate many-to-many bridge tables.
+-- Never sum employment after joining these links: one fact may match multiple
+-- tags. Keep the employment view independent and use the bridges for context.
 USE canadian_labour_market;
 CREATE TABLE IF NOT EXISTS article (
  ArticleID INT PRIMARY KEY, Title VARCHAR(255) NOT NULL, PublicationDate DATE NOT NULL,

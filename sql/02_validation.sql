@@ -1,5 +1,7 @@
 -- Run after loading source CSVs; read-only checks.
 USE canadian_labour_market;
+-- COUNT(*) includes all observed keys; COUNT(measure) skips unavailable
+-- estimates. Their difference should be 9; never repair it with COALESCE(0).
 SELECT COUNT(*) AS fact_rows,
        COUNT(EmploymentValueThousands) AS numeric_values,
        SUM(EmploymentValueThousands IS NULL) AS null_values
@@ -14,6 +16,8 @@ SELECT DateKey, ProvinceKey, IndustryKey, COUNT(*) AS count_at_grain
 FROM fact_employment
 GROUP BY DateKey, ProvinceKey, IndustryKey
 HAVING COUNT(*) > 1;
+-- A present key with a NULL estimate is legitimate. A missing grid cell is
+-- different: the source row itself did not make it into the database.
 SELECT COUNT(*) AS missing_combinations
 FROM dim_date AS d CROSS JOIN dim_province AS p CROSS JOIN dim_industry AS i
 LEFT JOIN fact_employment AS f
