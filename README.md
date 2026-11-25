@@ -9,13 +9,32 @@ University of Windsor | Fall 2026 | Group 3
 
 | To do this | Open |
 |---|---|
-| Run the native Power BI report | [Download the current PBIX](powerbi/Group3_PowerBI_Updated.pbix), then open it in Power BI Desktop on Windows. A verified browser report link is still pending; [track hosted access here](https://github.com/Ethannguye/BSMM8730-canadian-labour-market-analytics/issues/3). |
+| Run the native Power BI report | [Download the updated seven-page PBIX](powerbi/Group3_PowerBI_Updated.pbix), uploaded November 25, 2026, and open it in Power BI Desktop on Windows. [Report pages and opening instructions](powerbi/README.md). A verified browser report link is still pending; [track hosted access here](https://github.com/Ethannguye/BSMM8730-canadian-labour-market-analytics/issues/3). |
 | Review project management and responsibilities | [D.4.3 task tracker on GitHub Issues](https://github.com/Ethannguye/BSMM8730-canadian-labour-market-analytics/issues/3) |
 | Connect to MySQL or recreate the database | [Connection, load order and validation instructions](docs/D4_3_database_access.md) |
 | Inspect source code and datasets | [Python](scripts/) · [SQL schema and checks](sql/) · [raw sources and provenance](data/raw/README.md) · [full prepared CSVs](data/prepared/full/) |
-| Check application evidence | [Power BI screenshots](powerbi/README.md) · [SQL and article validation](evidence/article_links/) |
+| View dashboard screenshots | [Executive Overview](docs/01_Executive_Overview.png) · [Industry Size & Recovery](docs/02_Industry_Size_Recovery.png) |
+| Check application evidence | [Power BI pages and screenshots](powerbi/README.md) · [SQL and article validation](evidence/article_links/) |
 
-**Try it:** In the report, select a province and industry, inspect the monthly trend, then open **Employment Recovery** to compare with February 2020. Values are expressed in thousands of employed persons.
+**Try it:** Start with **Executive Overview.**, the saved opening page. Select a reference month, province and industry, then open **Industry Size & Recovery** to compare the five largest industries and their recovery relative to February 2020. The original trend, matrix and drill-through pages remain available. Employment levels are expressed in thousands of employed persons.
+
+## Dashboard previews
+
+These screenshots were captured from the team's Power BI report on November 25, 2026. Both use **December 2025**, **all provinces** and **all industries included in the analysis**. They are static previews; use the PBIX for interactive filtering.
+
+### Executive Overview
+
+Four KPI cards show selected-month employment, year-over-year change, month-over-month change and recovery relative to February 2020. The line chart shows the 2019–2025 monthly trend and 12-month rolling average, while the province chart compares employment in the selected month.
+
+![Executive Overview: December 2025 employment KPIs, historical trend and provincial comparison](docs/01_Executive_Overview.png)
+
+### Industry Size & Recovery
+
+The left chart ranks the five largest industries by selected-month employment. The right chart shows recovery for those same five industries, with **February 2020 = 100%**. The industry selection is based on employment size, not the recovery ranking.
+
+![Industry Size and Recovery: employment and recovery of the five largest industries in December 2025](docs/02_Industry_Size_Recovery.png)
+
+*Source: Statistics Canada, Labour Force Survey; calculations and Power BI report by Group 3. Employment values are in thousands of persons. A recovery index of 110.1% means employment is approximately 10.1% above the February 2020 baseline.*
 
 ## Team Members
 
@@ -135,11 +154,11 @@ calculated by summing estimates across different months.
 | [powerbi](powerbi/) | Power BI report files and DAX documentation |
 | [evidence](evidence/) | Screenshots, validation results, and demonstration evidence |
 
-## Current repository status — November 24, 2026
+## Current repository status — November 25, 2026
 
-The repository contains the full prepared dataset, article records, MySQL schema, SQL validation evidence and native Power BI report. The documented local load contains 17,640 fact rows, including nine missing employment values. The SQL reporting view uses 17 non-overlapping industries and contains 14,280 rows.
+The repository contains the full prepared dataset, article records, MySQL schema, SQL validation evidence and an updated native Power BI report with seven pages. The November 25 upload adds **Executive Overview.** and **Industry Size & Recovery**; the two presentation screenshots above are also stored in the repository. The documented local load contains 17,640 fact rows, including nine missing employment values. The SQL reporting view uses 17 non-overlapping industries and contains 14,280 rows.
 
-The [final task tracker](https://github.com/Ethannguye/BSMM8730-canadian-labour-market-analytics/issues/3) records outstanding access checks and final submission work. The proposal-era feature list above is a design target, not a completion checklist.
+The [final task tracker](https://github.com/Ethannguye/BSMM8730-canadian-labour-market-analytics/issues/3) records outstanding access checks and final submission work. Verified browser access and the final Deployment Document, User Guide and Final Report remain part of the final handover. The proposal-era feature list above is a design target, not a completion checklist. Previously submitted requirements and design documents remain available in [docs/](docs/).
 
 ## Team Collaboration and Version Control
 
